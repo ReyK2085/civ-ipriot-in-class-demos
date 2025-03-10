@@ -58,4 +58,4 @@ This workflow is specifically tailored for working with this repository, which w
 
     If there are any conflicts, you'll need to resolve them and continue the rebase using `git rebase --continue`.
 
-4. Remember not to push your changes to the upstream repository.
+4. Remember to push your changes to the upstream repository.
